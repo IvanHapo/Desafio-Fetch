@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Silla",
+        "numero": "producto1",
+        "precio": 8,
+        "color": "Madera"
+    },
+    {
+        "id": 2,
+        "nombre": "Mesa",
+        "numero": "producto2",
+        "precio": 8,
+        "color": "Madera oscura"
+    },
+    {
+        "id": 3,
+        "nombre": "Heladera",
+        "numero": "producto3",
+        "precio": 8,
+        "color": "Blanco"
+    },
+    {
+        "id": 4,
+        "nombre": "Vaso",
+        "numero": "producto4",
+        "precio": 10,
+        "color": "Celeste"
+    },
+    {
+        "id": 5,
+        "nombre": "TV",
+        "numero": "producto5",
+        "precio": 10,
+        "color": "Negra"
+    },
+    {
+        "id": 6,
+        "nombre": "Puerta",
+        "numero": "producto6",
+        "precio": 10,
+        "color": "Blanca"
+    }
+]
